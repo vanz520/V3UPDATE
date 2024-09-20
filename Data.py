@@ -1,6 +1,6 @@
 # Credits: @vanz520
 # FROM File-Sharing-Man <https://github.com/vanz520/v3update/>
-# t.me/SharingUserbot & t.me/Lunatic0de
+# t.me/Jessieexa
 
 from pyrogram.types import InlineKeyboardButton
 
@@ -51,7 +51,7 @@ class Data:
 
  • Creator: @{}
  • Framework: <a href='https://docs.pyrogram.org'>Pyrogram</a>
- • Source Code: <a href='https://github.com/mrismanaziz/File-Sharing-Man'>File-Sharing-Man v4</a>
+ • Source Code: <a href='https://github.com/vanz520/v3update'>File-Sharing-Man v4</a>
 
 👨‍💻 Develoved by </b><a href='https://t.me/Jessieexa/101'>@Jessieexa</a>
 """
